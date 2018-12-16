@@ -1,7 +1,7 @@
 num1
 num2
-num4
-num5
+num4=4
+num5=5
 
 
 
